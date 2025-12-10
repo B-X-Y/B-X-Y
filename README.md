@@ -2,13 +2,15 @@
 
 💻 **Developer | Lifelong Learner**
 
-Welcome to my GitHub profile! I’m passionate about building clean, efficient, and scalable projects. I enjoy solving real-world problems with code, learning new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I’m passionate about building clean, efficient, and scalable projects. I enjoy solving
+real-world problems with code, learning new technologies, and contributing to open-source projects.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **News Sentiment Analysis**
-- 🌱 I’m learning: **Game Development and Game ModificationR**
+
+- 🔭 I’m currently working on: **Reinforcement Learning**
+- 🌱 I’m learning: **Game Development and Game Modification**
 - 💬 Ask me about: **Anything**
 - 📫 Reach me at: **[B-X-Y.com](https://b-x-y.com)**
 
@@ -17,21 +19,37 @@ Welcome to my GitHub profile! I’m passionate about building clean, efficient, 
 ---
 
 ## 🧰 Tech Stack
+
 **Languages:**  
 `Python` `Java`
 
 **Frameworks & Tools:**  
 `Flask`
 
+[//]: # (**Frontend:**)
+
+[//]: # (`React` `TailwindCSS`)
+
 **Databases:**  
 `MySQL`
 
 **DevOps:**  
-`Docker` `GitHub Actions`
+`Docker` `GitHub Actions` `Nginx`
+
+[//]: # (**Testing & API:**  )
+
+[//]: # (`Postman`)
+
+**Cloud:**  
+`AliCloud` `Tencent Cloud`
+
+**Version Control:**  
+`Git` `GitHub`
 
 ---
 
 ## 📈 GitHub Stats
+
 ![B-X-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-X-Y&show_icons=true&theme=radical&card_width=450)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-X-Y&layout=compact&theme=radical&card_width=450)
@@ -39,6 +57,7 @@ Welcome to my GitHub profile! I’m passionate about building clean, efficient, 
 [//]: # (---)
 
 [//]: # ()
+
 [//]: # (## 🏆 Featured Projects)
 
 [//]: # (- 🔹 [**Project Name**]&#40;https://github.com/YourUsername/ProjectName&#41; — short description of what it does.)
@@ -48,6 +67,7 @@ Welcome to my GitHub profile! I’m passionate about building clean, efficient, 
 [//]: # (---)
 
 [//]: # ()
+
 [//]: # (## 🌐 Connect With Me)
 
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&#41;]&#40;https://linkedin.com/in/YourProfile&#41;)
